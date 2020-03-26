@@ -3821,10 +3821,10 @@ tapable@^0.2.3:
   resolved "https://registry.yarnpkg.com/tapable/-/tapable-0.2.9.tgz#af2d8bbc9b04f74ee17af2b4d9048f807acd18a8"
   integrity sha512-2wsvQ+4GwBvLPLWsNfLCDYGsW6xb7aeC6utq2Qh0PFwgEy7K7dsma9Jsmb2zSQj7GvYAyUGSntLtsv++GmgL1A==
 
-tern@0.23.0:
-  version "0.23.0"
-  resolved "https://registry.yarnpkg.com/tern/-/tern-0.23.0.tgz#35d76bc910c3d1cb053b9db879cdeb5b39421b9b"
-  integrity sha512-lST8jq/DougDUADb+vBaufwjqNChwABSJTkWf+5GG4xNVJoR/atEaMe/G7buaVZrpGCy+zoaq1TuycQy8xX+Bg==
+tern@0.24.3:
+  version "0.24.3"
+  resolved "https://registry.yarnpkg.com/tern/-/tern-0.24.3.tgz#da0d9118490c15af4b1c94553d5f0fafc77a0977"
+  integrity sha512-Z8uvtdWIlFn1GWy0HW5FhZ8VDryZwoJUdnjZU25C7/PBOltLIn1uv+WF3rVq6S1761YbsmbZYRP/l0ZJBCkvrw==
   dependencies:
     acorn "^6.0.0"
     acorn-loose "^6.0.0"
